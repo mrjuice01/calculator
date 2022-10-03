@@ -2,6 +2,7 @@
 Simple Calculator for termux to help with common mathematic problems
 # This tool is a simple calculator that helps solves your basic mathematical operations
 which is easy to use and operate
+![Screenshot_20221003-112952-1](https://user-images.githubusercontent.com/100421286/193545846-6f944d1e-e427-46be-a0d3-8cff29bcc572.jpg)
 
 _This tool is not harmful in anyway but is really meant for educational purposes alone._
 
