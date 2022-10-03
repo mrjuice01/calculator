@@ -13,7 +13,7 @@ _This tool is not harmful in anyway but is really meant for educational purposes
 
 > pkg install python
 
-> git clone https://github.com/TermuxHackz/Calculator
+> git clone https://github.com/mrjuice01/calculator.git
 
 > cd Calculator
 
@@ -24,7 +24,8 @@ _This tool is not harmful in anyway but is really meant for educational purposes
 > python calculator.py
 
 
-**THANKS FOR USING THIS CALCULATOR TOOL**
-* BY ANONYMINHACK5
+**THANKS FOR USING THIS CALCULATOR TOOL🤭**
+* BY Mr Juice
+## Follow My Github
 
 [~]This tool has been updated to its latest version beta 2.0
